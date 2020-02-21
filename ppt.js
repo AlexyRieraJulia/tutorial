@@ -1,3 +1,4 @@
+//Segon commit, yey
 function aleatorio(minimo, maximo)
 {
   var numero = Math.round( Math.random() * (maximo - minimo + 1) + minimo);
