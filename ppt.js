@@ -1,5 +1,6 @@
 //Genera un número aleatorio entre un rango de enteros
 //Això està fet amb JavaScript
+//Segon commit
 
 function patito(minimo, maximo)
 {
